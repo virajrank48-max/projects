@@ -1,7 +1,8 @@
 ## Amazone Sales Analysis:
 
-This file shows the Power BI desktop visulisation of the Amazon sales data. Data has been extracted from the Kaggle. 
-
+# This file shows the Power BI desktop visulisation of the Amazon sales data. Data has been extracted from the Kaggle. 
+"""
 This visulisation highlight trend of sales in the year 2023 with variable like revenue, quantity sold and price, discounted price. This visulisation helps
 to see the monthly as well as quartrly effect on the revenue and profit, combine with the actual and disounted price. Also regional demand highloghted in the 
 in the treemaps. Overall this link every part of the sales data with better viualiation. 
+"""
